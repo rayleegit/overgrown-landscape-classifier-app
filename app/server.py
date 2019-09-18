@@ -8,8 +8,8 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-model_file_url = 'https://drive.google.com/uc?export=download&confirm=xU5q&id=1TuKVT-5V_hNswyfSI7R13pqoMgvdivxE'
-model_file_name = 'model_tuned'
+model_file_url = 'https://drive.google.com/uc?export=download&confirm=H7Cm&id=1TuKVT-5V_hNswyfSI7R13pqoMgvdivxE'
+model_file_name = 'model'
 classes = ['overgrown-landscape','clean-landscape']
 path = Path(__file__).parent
 
